@@ -1,0 +1,7 @@
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.exe
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\bin\Debug\ConsoleApplication5.pdb
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.AssemblyReference.cache
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.SuggestedBindingRedirects.cache
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.csproj.CoreCompileInputs.cache
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.exe
+C:\Users\public.COPP\Desktop\RKIS5\ConsoleApplication1\ConsoleApplication5\obj\Debug\ConsoleApplication5.pdb
