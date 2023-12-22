@@ -1,0 +1,7 @@
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\bin\Debug\задание_2.exe
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\bin\Debug\задание_2.pdb
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\obj\Debug\задание 2.csproj.AssemblyReference.cache
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\obj\Debug\задание 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\obj\Debug\задание 2.csproj.CoreCompileInputs.cache
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\obj\Debug\задание_2.exe
+C:\Users\Pante\Desktop\практика\RKIS 2\задание 2\obj\Debug\задание_2.pdb
