@@ -1,0 +1,10 @@
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\bin\Debug\RKIS7.exe
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\bin\Debug\RKIS7.pdb
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\obj\Debug\RKIS7.csproj.AssemblyReference.cache
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\obj\Debug\RKIS7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\obj\Debug\RKIS7.csproj.CoreCompileInputs.cache
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\obj\Debug\RKIS7.csproj.CopyComplete
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\obj\Debug\RKIS7.exe
+C:\Users\Pante\Desktop\практика\RKIS7\RKIS7\obj\Debug\RKIS7.pdb
