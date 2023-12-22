@@ -1,0 +1,7 @@
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\bin\Debug\RKIS_4.exe
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\bin\Debug\RKIS_4.pdb
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\obj\Debug\RKIS 4.csproj.AssemblyReference.cache
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\obj\Debug\RKIS 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\obj\Debug\RKIS 4.csproj.CoreCompileInputs.cache
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\obj\Debug\RKIS_4.exe
+C:\Users\Pante\Desktop\практика\RKIS 4\RKIS 4\obj\Debug\RKIS_4.pdb
