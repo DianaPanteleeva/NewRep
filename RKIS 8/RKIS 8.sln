@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RKIS 8", "RKIS 8\RKIS 8.csproj", "{4E3AE52C-728E-4080-9657-1A59F8565AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E3AE52C-728E-4080-9657-1A59F8565AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E3AE52C-728E-4080-9657-1A59F8565AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E3AE52C-728E-4080-9657-1A59F8565AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E3AE52C-728E-4080-9657-1A59F8565AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

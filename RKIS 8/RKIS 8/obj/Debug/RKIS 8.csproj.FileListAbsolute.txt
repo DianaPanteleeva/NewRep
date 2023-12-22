@@ -1,0 +1,10 @@
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\bin\Debug\RKIS_8.exe
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\bin\Debug\RKIS_8.pdb
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\obj\Debug\RKIS 8.csproj.AssemblyReference.cache
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\obj\Debug\RKIS 8.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\obj\Debug\RKIS 8.csproj.CoreCompileInputs.cache
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\obj\Debug\RKIS 8.csproj.CopyComplete
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\obj\Debug\RKIS_8.exe
+C:\Users\Pante\Desktop\практика\RKIS 8\RKIS 8\obj\Debug\RKIS_8.pdb
